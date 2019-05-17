@@ -3,6 +3,6 @@
 (欢迎访问博客园主页： https://www.cnblogs.com/1996swg/)
 
 主要包含：
-1. Web相关（建站、前端界面）
-2. Android Graphic模块内容
-3. Android App（业余）
+1. Web
+2. Android Framework
+3. Android App
