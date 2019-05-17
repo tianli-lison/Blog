@@ -1,6 +1,8 @@
-简介
+简介:
 记录个人博客，日常笔记的仓库。
-(欢迎访问博客园主页： https://www.cnblogs.com/1996swg/)
+welcome to visit my web：
+1. https://www.cnblogs.com/1996swg/
+2. wizzie.top
 
 主要包含：
 1. Web
